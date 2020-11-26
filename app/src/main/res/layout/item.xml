@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/title"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    tools:text="Hello World"
+    android:textStyle="bold"
+    android:padding="10dp"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools" />
+
